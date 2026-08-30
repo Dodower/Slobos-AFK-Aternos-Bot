@@ -8,7 +8,7 @@
   "server": {
     "ip": "MinecraftEarthServer.aternos.me",
     "port": 51177,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
